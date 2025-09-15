@@ -1,4 +1,24 @@
-## Welcome to Willian Mayer's Github!
+# 👋 Hi there, I'm Willian Mayer
+
+💻 **Full Stack Developer** with 4+ years of experience building secure, scalable, and user-centered web applications.  
+⚡ Passionate about clean architecture, continuous learning, and creating solutions that deliver real value.
+
+---
+
+## 🚀 Tech Stack
+- **Frontend:** React, Angular, Vue, Tailwind, Figma  
+- **Backend:** Node.js (Express, Nest.js), Python (Django, FastAPI), Java (Spring Boot), C#  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Git  
+- And more!
+---
+
+## 🌟 What I Value
+✨ High-quality, maintainable code  
+🤝 Teamwork, communication & integrity  
+📚 Continuous learning & innovation  
+
+---
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willian-mayer)](https://github.com/willian-mayer/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian-mayer&layout=compact)
