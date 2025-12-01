@@ -12,10 +12,21 @@
 - And more!
 ---
 
-## 🌟 What I Value
-✨ High-quality, maintainable code  
-🤝 Teamwork, communication & integrity  
-📚 Continuous learning & innovation  
+## 🌟 Core Values
+✨ Clean, maintainable, production-ready code  
+🤝 Teamwork, clear communication, ownership  
+📚 Continuous learning & staying ahead of modern tech  
+⚙️ Automation + AI to boost efficiency and deliver smarter solutions
+
+---
+
+## 📂 Featured Projects
+Here are some of the projects I’ve built or contributed to:
+
+- 🔗 **Real Estate Automation Platform** — https://platform.airealtylabs.com  
+- 🔗 **AI-Enhanced Real Estate Company Website** — https://airealtylabs.com  
+- 🔗 **Travel & Activities Marketplace** — https://dayaxe.com  
+- 🔗 **Property Insights Tool** — https://bynza.space  
 
 ---
 
