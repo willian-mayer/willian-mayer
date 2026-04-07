@@ -2,7 +2,7 @@
  
 **Full Stack Software Engineer** with 5+ years building production web applications — from responsive UIs to backend APIs, cloud infrastructure, and AI-powered systems.
  
-I work across the full stack with **TypeScript, React, Next.js, Go, and Node.js**, deploying on **GCP and Vercel**. I own problems end-to-end: architecture, implementation, deployment, and monitoring.
+I work across the full stack with **TypeScript, React, Next.js, Go, and Node.js (NestJS, Express.js)**, deploying on **GCP, AWS, Azure, and Vercel**. I own problems end-to-end: architecture, implementation, deployment, and monitoring.
  
 ---
  
