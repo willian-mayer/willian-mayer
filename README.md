@@ -1,11 +1,21 @@
-# 👋 Hi there, I'm Willian Mayer
-
-💻 **Full Stack Developer** with 4+ years of experience building secure, scalable, and user-centered web applications.  
-⚡ Passionate about clean architecture, continuous learning, and creating solutions that deliver real value.
-
+# Hi, I'm Willian Mayer 👋
+ 
+**Full Stack Software Engineer** with 5+ years building production web applications — from responsive UIs to backend APIs, cloud infrastructure, and AI-powered systems.
+ 
+I work across the full stack with **TypeScript, React, Next.js, Go, and Node.js**, deploying on **GCP and Vercel**. I own problems end-to-end: architecture, implementation, deployment, and monitoring.
+ 
 ---
-
-## 🚀 Tech Stack
+ 
+## 🚀 What I've shipped
+ 
+- **AI Realty Labs Platform** — AI Content Engine (Next.js + NestJS + OpenAI API) that reduced manual real estate listing creation by **95%** — from hours to seconds — serving enterprise clients in a multi-tenant environment on GCP
+- **BalanceAI** — a personal finance app with a Go backend and an agent-based AI layer (DeepSeek API + Redis memory) for multi-step financial planning conversations
+- **Bynza** — a full-stack budgeting app (Go + Next.js + PostgreSQL + Prisma) with account management, transfers, and a modern ShadCN UI
+- **Lynx 3PL** — migrated a logistics platform from ViteJS to Next.js with full DevOps setup: GCP Cloud Run, Docker, GitHub Actions CI/CD, Cloudflare Turnstile, and Resend
+ 
+---
+ 
+## 🛠️ Tech Stack
 - **Frontend:** React, Angular, Vue, Tailwind, Figma  
 - **Backend:** Node.js (Express, Nest.js), Python (Django, FastAPI), Java (Spring Boot), C#  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Git  
